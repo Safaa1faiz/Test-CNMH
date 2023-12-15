@@ -1,5 +1,4 @@
 # Scénario ajouter rendez-vous
-
 ## Critères de validation
 - UI: Interfaces
   - Chart graphique (maquettage de prototype)
