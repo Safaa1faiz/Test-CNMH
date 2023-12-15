@@ -8,13 +8,24 @@ Tester le cas d'utilisation ajouter les rendez-vous.
   - Chart graphique (maquettage de prototype)
   - Langue
 - Scénarios
-  - Rédaction de scénarios en français
+  - Description des scénarios
   - Rédaction de scénarios en UML
   - Validation des scénarios dans l'application
- ## Entrée
+
 - Diagramme de cas d'utilisation
-- Carte d'empathie
-- Diagramme de classe(optionnel)
+<img src="imgs\rendez.png">
+
+
+Diagramme de cas d'utilisation :
+
+<img src="imgs\Casd'utilisationsprint1.png">
+
+Carte d'empathie du gestion de rendez-vous : 
+
+<img src="imgs\Carted'empathie.png">
+
+<img src="imgs\Carted'empathie2.png">
+
 ## Livrable
 
 [Scénario ajouter rendez-vous](https://docs.google.com/presentation/d/1kMBm9piDxl0KFJjdV537nE7XUjuuNi4q/edit?usp=sharing&ouid=109910539235530474628&rtpof=true&sd=true)
